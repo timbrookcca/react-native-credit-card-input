@@ -1,15 +1,11 @@
 {
   "name": "cpp-react-native-credit-card-input",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "React native credit card input component",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --ext .js ."
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/timbrookcca/react-native-credit-card-input"
   },
   "keywords": [
     "react-native",
@@ -28,10 +24,6 @@
   ],
   "author": "timbrookcca",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/timbrookcca/react-native-credit-card-input/issues"
-  },
-  "homepage": "https://github.com/timbrookcca/react-native-credit-card-input#readme",
   "dependencies": {
     "card-validator": "^8.1.1",
     "lodash.compact": "^3.0.1",
